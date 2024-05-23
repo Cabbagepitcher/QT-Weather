@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/a-ziyuan1.svg</file>
+        <file>res/a-ziyuan2.svg</file>
+        <file>res/a-ziyuan3.svg</file>
+        <file>res/a-ziyuan4.svg</file>
+        <file>res/a-ziyuan5.svg</file>
+        <file>res/a-ziyuan6.svg</file>
+        <file>res/a-ziyuan7.svg</file>
+        <file>res/a-ziyuan8.svg</file>
+        <file>res/a-ziyuan9.svg</file>
+        <file>res/a-ziyuan10.svg</file>
+        <file>res/a-ziyuan11.svg</file>
+        <file>res/a-ziyuan12.svg</file>
+        <file>res/a-ziyuan13.svg</file>
+        <file>res/a-ziyuan14.svg</file>
+        <file>res/a-ziyuan15.svg</file>
+        <file>res/a-ziyuan16.svg</file>
+        <file>res/a-ziyuan17.svg</file>
+        <file>res/a-ziyuan18.svg</file>
+        <file>res/a-ziyuan19.svg</file>
+        <file>res/a-ziyuan20.svg</file>
+        <file>res/background.png</file>
+        <file>res/PM2.5.svg</file>
+        <file>res/FX.svg</file>
+        <file>res/SD.svg</file>
+        <file>res/SY.svg</file>
+        <file>res/Qing.png</file>
+        <file>res/Search.png</file>
+    </qresource>
+</RCC>
